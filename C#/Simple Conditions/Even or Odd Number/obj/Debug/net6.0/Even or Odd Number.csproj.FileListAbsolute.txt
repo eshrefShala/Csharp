@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\bin\Debug\net6.0\Even or Odd Number.exe
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\bin\Debug\net6.0\Even or Odd Number.deps.json
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\bin\Debug\net6.0\Even or Odd Number.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\bin\Debug\net6.0\Even or Odd Number.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\bin\Debug\net6.0\Even or Odd Number.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\obj\Debug\net6.0\Even or Odd Number.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\obj\Debug\net6.0\Even or Odd Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\obj\Debug\net6.0\Even or Odd Number.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\obj\Debug\net6.0\Even or Odd Number.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\obj\Debug\net6.0\Even or Odd Number.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\obj\Debug\net6.0\Even or Odd Number.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\obj\Debug\net6.0\refint\Even or Odd Number.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\obj\Debug\net6.0\Even or Odd Number.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\obj\Debug\net6.0\Even or Odd Number.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Even or Odd Number\obj\Debug\net6.0\ref\Even or Odd Number.dll

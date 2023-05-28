@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\bin\Debug\net6.0\Diamond.exe
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\bin\Debug\net6.0\Diamond.deps.json
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\bin\Debug\net6.0\Diamond.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\bin\Debug\net6.0\Diamond.dll
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\bin\Debug\net6.0\Diamond.pdb
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\obj\Debug\net6.0\Diamond.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\obj\Debug\net6.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\obj\Debug\net6.0\Diamond.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\obj\Debug\net6.0\Diamond.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\obj\Debug\net6.0\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\obj\Debug\net6.0\Diamond.dll
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\obj\Debug\net6.0\refint\Diamond.dll
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\obj\Debug\net6.0\Diamond.pdb
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\obj\Debug\net6.0\Diamond.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\NestedLoops\Diamond\Diamond\obj\Debug\net6.0\ref\Diamond.dll

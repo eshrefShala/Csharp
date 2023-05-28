@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\bin\Debug\net6.0\Problem-Numbers from 1 to 20.exe
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\bin\Debug\net6.0\Problem-Numbers from 1 to 20.deps.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\bin\Debug\net6.0\Problem-Numbers from 1 to 20.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\bin\Debug\net6.0\Problem-Numbers from 1 to 20.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\bin\Debug\net6.0\Problem-Numbers from 1 to 20.pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\obj\Debug\net6.0\Problem-Numbers from 1 to 20.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\obj\Debug\net6.0\Problem-Numbers from 1 to 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\obj\Debug\net6.0\Problem-Numbers from 1 to 20.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\obj\Debug\net6.0\Problem-Numbers from 1 to 20.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\obj\Debug\net6.0\Problem-Numbers from 1 to 20.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\obj\Debug\net6.0\Problem-Numbers from 1 to 20.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\obj\Debug\net6.0\refint\Problem-Numbers from 1 to 20.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\obj\Debug\net6.0\Problem-Numbers from 1 to 20.pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\obj\Debug\net6.0\Problem-Numbers from 1 to 20.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem-Numbers from 1 to 20\Problem-Numbers from 1 to 20\obj\Debug\net6.0\ref\Problem-Numbers from 1 to 20.dll

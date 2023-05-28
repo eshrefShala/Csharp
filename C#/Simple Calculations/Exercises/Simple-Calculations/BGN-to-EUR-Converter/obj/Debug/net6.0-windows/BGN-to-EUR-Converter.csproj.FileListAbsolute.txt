@@ -1,0 +1,17 @@
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\bin\Debug\net6.0-windows\BGN-to-EUR-Converter.exe
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\bin\Debug\net6.0-windows\BGN-to-EUR-Converter.deps.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\bin\Debug\net6.0-windows\BGN-to-EUR-Converter.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\bin\Debug\net6.0-windows\BGN-to-EUR-Converter.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\bin\Debug\net6.0-windows\BGN-to-EUR-Converter.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\net6.0-windows\BGN-to-EUR-Converter.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\net6.0-windows\BGN_to_EUR_Converter.Form1.resources
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\net6.0-windows\BGN-to-EUR-Converter.csproj.GenerateResource.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\net6.0-windows\BGN-to-EUR-Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\net6.0-windows\BGN-to-EUR-Converter.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\net6.0-windows\BGN-to-EUR-Converter.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\net6.0-windows\BGN-to-EUR-Converter.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\net6.0-windows\BGN-to-EUR-Converter.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\net6.0-windows\refint\BGN-to-EUR-Converter.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\net6.0-windows\BGN-to-EUR-Converter.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\net6.0-windows\BGN-to-EUR-Converter.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\net6.0-windows\ref\BGN-to-EUR-Converter.dll

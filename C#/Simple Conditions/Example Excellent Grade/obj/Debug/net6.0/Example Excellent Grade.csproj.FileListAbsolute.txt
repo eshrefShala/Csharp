@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\bin\Debug\net6.0\Example Excellent Grade.exe
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\bin\Debug\net6.0\Example Excellent Grade.deps.json
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\bin\Debug\net6.0\Example Excellent Grade.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\bin\Debug\net6.0\Example Excellent Grade.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\bin\Debug\net6.0\Example Excellent Grade.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\obj\Debug\net6.0\Example Excellent Grade.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\obj\Debug\net6.0\Example Excellent Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\obj\Debug\net6.0\Example Excellent Grade.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\obj\Debug\net6.0\Example Excellent Grade.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\obj\Debug\net6.0\Example Excellent Grade.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\obj\Debug\net6.0\Example Excellent Grade.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\obj\Debug\net6.0\refint\Example Excellent Grade.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\obj\Debug\net6.0\Example Excellent Grade.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\obj\Debug\net6.0\Example Excellent Grade.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Example Excellent Grade\obj\Debug\net6.0\ref\Example Excellent Grade.dll

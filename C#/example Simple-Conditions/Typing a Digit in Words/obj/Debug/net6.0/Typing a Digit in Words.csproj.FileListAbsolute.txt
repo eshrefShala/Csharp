@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\bin\Debug\net6.0\Typing a Digit in Words.exe
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\bin\Debug\net6.0\Typing a Digit in Words.deps.json
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\bin\Debug\net6.0\Typing a Digit in Words.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\bin\Debug\net6.0\Typing a Digit in Words.dll
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\bin\Debug\net6.0\Typing a Digit in Words.pdb
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\obj\Debug\net6.0\Typing a Digit in Words.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\obj\Debug\net6.0\Typing a Digit in Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\obj\Debug\net6.0\Typing a Digit in Words.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\obj\Debug\net6.0\Typing a Digit in Words.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\obj\Debug\net6.0\Typing a Digit in Words.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\obj\Debug\net6.0\Typing a Digit in Words.dll
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\obj\Debug\net6.0\refint\Typing a Digit in Words.dll
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\obj\Debug\net6.0\Typing a Digit in Words.pdb
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\obj\Debug\net6.0\Typing a Digit in Words.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Typing a Digit in Words\obj\Debug\net6.0\ref\Typing a Digit in Words.dll

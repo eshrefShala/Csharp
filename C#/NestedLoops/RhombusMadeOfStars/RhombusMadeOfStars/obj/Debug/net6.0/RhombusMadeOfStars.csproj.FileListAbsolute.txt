@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\bin\Debug\net6.0\RhombusMadeOfStars.exe
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\bin\Debug\net6.0\RhombusMadeOfStars.deps.json
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\bin\Debug\net6.0\RhombusMadeOfStars.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\bin\Debug\net6.0\RhombusMadeOfStars.dll
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\bin\Debug\net6.0\RhombusMadeOfStars.pdb
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\obj\Debug\net6.0\RhombusMadeOfStars.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\obj\Debug\net6.0\RhombusMadeOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\obj\Debug\net6.0\RhombusMadeOfStars.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\obj\Debug\net6.0\RhombusMadeOfStars.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\obj\Debug\net6.0\RhombusMadeOfStars.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\obj\Debug\net6.0\RhombusMadeOfStars.dll
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\obj\Debug\net6.0\refint\RhombusMadeOfStars.dll
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\obj\Debug\net6.0\RhombusMadeOfStars.pdb
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\obj\Debug\net6.0\RhombusMadeOfStars.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\RhombusMadeOfStars\RhombusMadeOfStars\obj\Debug\net6.0\ref\RhombusMadeOfStars.dll

@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\bin\Debug\net6.0\Circle_Area_and_Perimeter.exe
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\bin\Debug\net6.0\Circle_Area_and_Perimeter.deps.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\bin\Debug\net6.0\Circle_Area_and_Perimeter.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\bin\Debug\net6.0\Circle_Area_and_Perimeter.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\bin\Debug\net6.0\Circle_Area_and_Perimeter.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\obj\Debug\net6.0\Circle_Area_and_Perimeter.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\obj\Debug\net6.0\Circle_Area_and_Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\obj\Debug\net6.0\Circle_Area_and_Perimeter.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\obj\Debug\net6.0\Circle_Area_and_Perimeter.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\obj\Debug\net6.0\Circle_Area_and_Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\obj\Debug\net6.0\Circle_Area_and_Perimeter.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\obj\Debug\net6.0\refint\Circle_Area_and_Perimeter.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\obj\Debug\net6.0\Circle_Area_and_Perimeter.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\obj\Debug\net6.0\Circle_Area_and_Perimeter.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Circle_Area_and_Perimeter\obj\Debug\net6.0\ref\Circle_Area_and_Perimeter.dll

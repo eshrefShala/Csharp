@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Problem Calculate Rectangle Area/1.0.0": {
+        "runtime": {
+          "Problem Calculate Rectangle Area.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem Calculate Rectangle Area/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

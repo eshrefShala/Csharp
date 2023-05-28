@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\obj\Debug\net6.0\Radians to Degrees.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\obj\Debug\net6.0\Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\obj\Debug\net6.0\Radians to Degrees.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\obj\Debug\net6.0\Radians to Degrees.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\obj\Debug\net6.0\Radians to Degrees.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\bin\Debug\net6.0\Radians to Degrees.exe
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\bin\Debug\net6.0\Radians to Degrees.deps.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\bin\Debug\net6.0\Radians to Degrees.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\bin\Debug\net6.0\Radians to Degrees.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\bin\Debug\net6.0\Radians to Degrees.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\obj\Debug\net6.0\Radians to Degrees.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\obj\Debug\net6.0\refint\Radians to Degrees.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\obj\Debug\net6.0\Radians to Degrees.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\obj\Debug\net6.0\Radians to Degrees.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Radians to Degrees\obj\Debug\net6.0\ref\Radians to Degrees.dll

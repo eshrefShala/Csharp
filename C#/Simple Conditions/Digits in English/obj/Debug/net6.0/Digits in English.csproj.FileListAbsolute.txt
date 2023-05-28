@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\bin\Debug\net6.0\Digits in English.exe
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\bin\Debug\net6.0\Digits in English.deps.json
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\bin\Debug\net6.0\Digits in English.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\bin\Debug\net6.0\Digits in English.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\bin\Debug\net6.0\Digits in English.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\obj\Debug\net6.0\Digits in English.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\obj\Debug\net6.0\Digits in English.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\obj\Debug\net6.0\Digits in English.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\obj\Debug\net6.0\Digits in English.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\obj\Debug\net6.0\Digits in English.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\obj\Debug\net6.0\Digits in English.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\obj\Debug\net6.0\refint\Digits in English.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\obj\Debug\net6.0\Digits in English.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\obj\Debug\net6.0\Digits in English.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Digits in English\obj\Debug\net6.0\ref\Digits in English.dll

@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\bin\Debug\net6.0\Sunglasses.exe
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\bin\Debug\net6.0\Sunglasses.deps.json
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\bin\Debug\net6.0\Sunglasses.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\bin\Debug\net6.0\Sunglasses.dll
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\bin\Debug\net6.0\Sunglasses.pdb
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\obj\Debug\net6.0\Sunglasses.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\obj\Debug\net6.0\Sunglasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\obj\Debug\net6.0\Sunglasses.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\obj\Debug\net6.0\Sunglasses.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\obj\Debug\net6.0\Sunglasses.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\obj\Debug\net6.0\Sunglasses.dll
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\obj\Debug\net6.0\refint\Sunglasses.dll
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\obj\Debug\net6.0\Sunglasses.pdb
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\obj\Debug\net6.0\Sunglasses.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Sunglasses\Sunglasses\obj\Debug\net6.0\ref\Sunglasses.dll

@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\bin\Debug\net6.0\Problem A Square Made of Stars.exe
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\bin\Debug\net6.0\Problem A Square Made of Stars.deps.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\bin\Debug\net6.0\Problem A Square Made of Stars.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\bin\Debug\net6.0\Problem A Square Made of Stars.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\bin\Debug\net6.0\Problem A Square Made of Stars.pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\obj\Debug\net6.0\Problem A Square Made of Stars.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\obj\Debug\net6.0\Problem A Square Made of Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\obj\Debug\net6.0\Problem A Square Made of Stars.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\obj\Debug\net6.0\Problem A Square Made of Stars.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\obj\Debug\net6.0\Problem A Square Made of Stars.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\obj\Debug\net6.0\Problem A Square Made of Stars.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\obj\Debug\net6.0\refint\Problem A Square Made of Stars.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\obj\Debug\net6.0\Problem A Square Made of Stars.pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\obj\Debug\net6.0\Problem A Square Made of Stars.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem A Square Made of Stars\Problem A Square Made of Stars\obj\Debug\net6.0\ref\Problem A Square Made of Stars.dll

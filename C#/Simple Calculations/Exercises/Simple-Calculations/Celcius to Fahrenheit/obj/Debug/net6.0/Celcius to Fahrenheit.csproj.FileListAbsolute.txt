@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\bin\Debug\net6.0\Celcius to Fahrenheit.exe
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\bin\Debug\net6.0\Celcius to Fahrenheit.deps.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\bin\Debug\net6.0\Celcius to Fahrenheit.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\bin\Debug\net6.0\Celcius to Fahrenheit.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\bin\Debug\net6.0\Celcius to Fahrenheit.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\obj\Debug\net6.0\Celcius to Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\obj\Debug\net6.0\Celcius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\obj\Debug\net6.0\Celcius to Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\obj\Debug\net6.0\Celcius to Fahrenheit.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\obj\Debug\net6.0\Celcius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\obj\Debug\net6.0\Celcius to Fahrenheit.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\obj\Debug\net6.0\refint\Celcius to Fahrenheit.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\obj\Debug\net6.0\Celcius to Fahrenheit.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\obj\Debug\net6.0\Celcius to Fahrenheit.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Celcius to Fahrenheit\obj\Debug\net6.0\ref\Celcius to Fahrenheit.dll

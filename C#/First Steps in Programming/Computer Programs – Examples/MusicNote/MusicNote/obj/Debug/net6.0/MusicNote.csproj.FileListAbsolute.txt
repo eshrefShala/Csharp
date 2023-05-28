@@ -1,0 +1,30 @@
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\bin\Debug\net6.0\MusicNote.exe
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\bin\Debug\net6.0\MusicNote.deps.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\bin\Debug\net6.0\MusicNote.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\bin\Debug\net6.0\MusicNote.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\bin\Debug\net6.0\MusicNote.pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\obj\Debug\net6.0\refint\MusicNote.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\MusicNote\MusicNote\obj\Debug\net6.0\ref\MusicNote.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\bin\Debug\net6.0\MusicNote.exe
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\bin\Debug\net6.0\MusicNote.deps.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\bin\Debug\net6.0\MusicNote.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\bin\Debug\net6.0\MusicNote.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\bin\Debug\net6.0\MusicNote.pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\obj\Debug\net6.0\refint\MusicNote.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\obj\Debug\net6.0\MusicNote.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Computer Programs – Examples\MusicNote\MusicNote\obj\Debug\net6.0\ref\MusicNote.dll

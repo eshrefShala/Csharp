@@ -1,0 +1,17 @@
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\obj\Debug\net6.0-windows\GAS (Calculator).csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\obj\Debug\net6.0-windows\GAS__Calculator_.Form1.resources
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\obj\Debug\net6.0-windows\GAS (Calculator).csproj.GenerateResource.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\obj\Debug\net6.0-windows\GAS (Calculator).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\obj\Debug\net6.0-windows\GAS (Calculator).AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\obj\Debug\net6.0-windows\GAS (Calculator).AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\obj\Debug\net6.0-windows\GAS (Calculator).csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\bin\Debug\net6.0-windows\GAS (Calculator).exe
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\bin\Debug\net6.0-windows\GAS (Calculator).deps.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\bin\Debug\net6.0-windows\GAS (Calculator).runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\bin\Debug\net6.0-windows\GAS (Calculator).dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\bin\Debug\net6.0-windows\GAS (Calculator).pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\obj\Debug\net6.0-windows\GAS (Calculator).dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\obj\Debug\net6.0-windows\refint\GAS (Calculator).dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\obj\Debug\net6.0-windows\GAS (Calculator).pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\obj\Debug\net6.0-windows\GAS (Calculator).genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Lab\GAS (Calculator)\GAS (Calculator)\obj\Debug\net6.0-windows\ref\GAS (Calculator).dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem Calculate Rectangle Area", "Problem Calculate Rectangle Area\Problem Calculate Rectangle Area.csproj", "{33DE5943-8062-4CDC-8059-B370A6EC9B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33DE5943-8062-4CDC-8059-B370A6EC9B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DE5943-8062-4CDC-8059-B370A6EC9B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DE5943-8062-4CDC-8059-B370A6EC9B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DE5943-8062-4CDC-8059-B370A6EC9B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8425E59A-F6C4-4A0D-B573-9EB34F7EB6D3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\bin\Debug\net6.0\Summing Up Seconds.exe
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\bin\Debug\net6.0\Summing Up Seconds.deps.json
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\bin\Debug\net6.0\Summing Up Seconds.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\bin\Debug\net6.0\Summing Up Seconds.dll
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\bin\Debug\net6.0\Summing Up Seconds.pdb
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\obj\Debug\net6.0\Summing Up Seconds.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\obj\Debug\net6.0\Summing Up Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\obj\Debug\net6.0\Summing Up Seconds.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\obj\Debug\net6.0\Summing Up Seconds.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\obj\Debug\net6.0\Summing Up Seconds.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\obj\Debug\net6.0\Summing Up Seconds.dll
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\obj\Debug\net6.0\refint\Summing Up Seconds.dll
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\obj\Debug\net6.0\Summing Up Seconds.pdb
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\obj\Debug\net6.0\Summing Up Seconds.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Summing Up Seconds\obj\Debug\net6.0\ref\Summing Up Seconds.dll

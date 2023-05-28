@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\bin\Debug\net6.0\Concatenating_Text_and_Numbers.exe
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\bin\Debug\net6.0\Concatenating_Text_and_Numbers.deps.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\bin\Debug\net6.0\Concatenating_Text_and_Numbers.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\bin\Debug\net6.0\Concatenating_Text_and_Numbers.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\bin\Debug\net6.0\Concatenating_Text_and_Numbers.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\obj\Debug\net6.0\Concatenating_Text_and_Numbers.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\obj\Debug\net6.0\Concatenating_Text_and_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\obj\Debug\net6.0\Concatenating_Text_and_Numbers.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\obj\Debug\net6.0\Concatenating_Text_and_Numbers.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\obj\Debug\net6.0\Concatenating_Text_and_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\obj\Debug\net6.0\Concatenating_Text_and_Numbers.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\obj\Debug\net6.0\refint\Concatenating_Text_and_Numbers.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\obj\Debug\net6.0\Concatenating_Text_and_Numbers.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\obj\Debug\net6.0\Concatenating_Text_and_Numbers.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Concatenating_Text_and_Numbers\obj\Debug\net6.0\ref\Concatenating_Text_and_Numbers.dll

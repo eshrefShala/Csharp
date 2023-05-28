@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\bin\Debug\net6.0\Trapezoid_Area.exe
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\bin\Debug\net6.0\Trapezoid_Area.deps.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\bin\Debug\net6.0\Trapezoid_Area.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\bin\Debug\net6.0\Trapezoid_Area.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\bin\Debug\net6.0\Trapezoid_Area.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\obj\Debug\net6.0\Trapezoid_Area.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\obj\Debug\net6.0\Trapezoid_Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\obj\Debug\net6.0\Trapezoid_Area.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\obj\Debug\net6.0\Trapezoid_Area.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\obj\Debug\net6.0\Trapezoid_Area.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\obj\Debug\net6.0\Trapezoid_Area.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\obj\Debug\net6.0\refint\Trapezoid_Area.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\obj\Debug\net6.0\Trapezoid_Area.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\obj\Debug\net6.0\Trapezoid_Area.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Trapezoid_Area\obj\Debug\net6.0\ref\Trapezoid_Area.dll

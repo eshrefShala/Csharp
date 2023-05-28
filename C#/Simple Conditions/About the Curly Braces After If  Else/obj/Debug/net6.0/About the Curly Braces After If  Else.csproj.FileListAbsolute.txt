@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\bin\Debug\net6.0\About the Curly Braces After If  Else.exe
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\bin\Debug\net6.0\About the Curly Braces After If  Else.deps.json
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\bin\Debug\net6.0\About the Curly Braces After If  Else.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\bin\Debug\net6.0\About the Curly Braces After If  Else.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\bin\Debug\net6.0\About the Curly Braces After If  Else.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\obj\Debug\net6.0\About the Curly Braces After If  Else.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\obj\Debug\net6.0\About the Curly Braces After If  Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\obj\Debug\net6.0\About the Curly Braces After If  Else.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\obj\Debug\net6.0\About the Curly Braces After If  Else.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\obj\Debug\net6.0\About the Curly Braces After If  Else.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\obj\Debug\net6.0\About the Curly Braces After If  Else.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\obj\Debug\net6.0\refint\About the Curly Braces After If  Else.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\obj\Debug\net6.0\About the Curly Braces After If  Else.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\obj\Debug\net6.0\About the Curly Braces After If  Else.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\About the Curly Braces After If  Else\obj\Debug\net6.0\ref\About the Curly Braces After If  Else.dll

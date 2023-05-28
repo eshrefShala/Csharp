@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\bin\Debug\net6.0\Problem Expression.exe
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\bin\Debug\net6.0\Problem Expression.deps.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\bin\Debug\net6.0\Problem Expression.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\bin\Debug\net6.0\Problem Expression.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\bin\Debug\net6.0\Problem Expression.pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\obj\Debug\net6.0\Problem Expression.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\obj\Debug\net6.0\Problem Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\obj\Debug\net6.0\Problem Expression.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\obj\Debug\net6.0\Problem Expression.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\obj\Debug\net6.0\Problem Expression.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\obj\Debug\net6.0\Problem Expression.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\obj\Debug\net6.0\refint\Problem Expression.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\obj\Debug\net6.0\Problem Expression.pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\obj\Debug\net6.0\Problem Expression.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Expression\Problem Expression\obj\Debug\net6.0\ref\Problem Expression.dll

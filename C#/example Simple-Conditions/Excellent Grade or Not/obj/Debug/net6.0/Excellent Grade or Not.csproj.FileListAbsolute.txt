@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\bin\Debug\net6.0\Excellent Grade or Not.exe
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\bin\Debug\net6.0\Excellent Grade or Not.deps.json
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\bin\Debug\net6.0\Excellent Grade or Not.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\bin\Debug\net6.0\Excellent Grade or Not.dll
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\bin\Debug\net6.0\Excellent Grade or Not.pdb
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\obj\Debug\net6.0\Excellent Grade or Not.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\obj\Debug\net6.0\Excellent Grade or Not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\obj\Debug\net6.0\Excellent Grade or Not.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\obj\Debug\net6.0\Excellent Grade or Not.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\obj\Debug\net6.0\Excellent Grade or Not.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\obj\Debug\net6.0\Excellent Grade or Not.dll
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\obj\Debug\net6.0\refint\Excellent Grade or Not.dll
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\obj\Debug\net6.0\Excellent Grade or Not.pdb
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\obj\Debug\net6.0\Excellent Grade or Not.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Excellent Grade or Not\obj\Debug\net6.0\ref\Excellent Grade or Not.dll

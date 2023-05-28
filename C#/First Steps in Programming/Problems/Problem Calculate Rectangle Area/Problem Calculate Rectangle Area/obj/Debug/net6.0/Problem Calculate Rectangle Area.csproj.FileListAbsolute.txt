@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\obj\Debug\net6.0\Problem Calculate Rectangle Area.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\obj\Debug\net6.0\Problem Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\obj\Debug\net6.0\Problem Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\obj\Debug\net6.0\Problem Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\obj\Debug\net6.0\Problem Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\bin\Debug\net6.0\Problem Calculate Rectangle Area.exe
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\bin\Debug\net6.0\Problem Calculate Rectangle Area.deps.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\bin\Debug\net6.0\Problem Calculate Rectangle Area.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\bin\Debug\net6.0\Problem Calculate Rectangle Area.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\bin\Debug\net6.0\Problem Calculate Rectangle Area.pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\obj\Debug\net6.0\Problem Calculate Rectangle Area.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\obj\Debug\net6.0\refint\Problem Calculate Rectangle Area.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\obj\Debug\net6.0\Problem Calculate Rectangle Area.pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\obj\Debug\net6.0\Problem Calculate Rectangle Area.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Problem Calculate Rectangle Area\Problem Calculate Rectangle Area\obj\Debug\net6.0\ref\Problem Calculate Rectangle Area.dll

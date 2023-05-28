@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\bin\Debug\net6.0\Introduction to Simple Conditions by Examples.exe
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\bin\Debug\net6.0\Introduction to Simple Conditions by Examples.deps.json
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\bin\Debug\net6.0\Introduction to Simple Conditions by Examples.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\bin\Debug\net6.0\Introduction to Simple Conditions by Examples.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\bin\Debug\net6.0\Introduction to Simple Conditions by Examples.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\obj\Debug\net6.0\Introduction to Simple Conditions by Examples.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\obj\Debug\net6.0\Introduction to Simple Conditions by Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\obj\Debug\net6.0\Introduction to Simple Conditions by Examples.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\obj\Debug\net6.0\Introduction to Simple Conditions by Examples.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\obj\Debug\net6.0\Introduction to Simple Conditions by Examples.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\obj\Debug\net6.0\Introduction to Simple Conditions by Examples.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\obj\Debug\net6.0\refint\Introduction to Simple Conditions by Examples.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\obj\Debug\net6.0\Introduction to Simple Conditions by Examples.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\obj\Debug\net6.0\Introduction to Simple Conditions by Examples.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\Introduction to Simple Conditions by Examples\obj\Debug\net6.0\ref\Introduction to Simple Conditions by Examples.dll

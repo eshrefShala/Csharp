@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\bin\Debug\net6.0\Rhombus_Down.exe
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\bin\Debug\net6.0\Rhombus_Down.deps.json
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\bin\Debug\net6.0\Rhombus_Down.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\bin\Debug\net6.0\Rhombus_Down.dll
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\bin\Debug\net6.0\Rhombus_Down.pdb
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\obj\Debug\net6.0\Rhombus_Down.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\obj\Debug\net6.0\Rhombus_Down.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\obj\Debug\net6.0\Rhombus_Down.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\obj\Debug\net6.0\Rhombus_Down.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\obj\Debug\net6.0\Rhombus_Down.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\obj\Debug\net6.0\Rhombus_Down.dll
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\obj\Debug\net6.0\refint\Rhombus_Down.dll
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\obj\Debug\net6.0\Rhombus_Down.pdb
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\obj\Debug\net6.0\Rhombus_Down.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Rhombus_Down\Rhombus_Down\obj\Debug\net6.0\ref\Rhombus_Down.dll

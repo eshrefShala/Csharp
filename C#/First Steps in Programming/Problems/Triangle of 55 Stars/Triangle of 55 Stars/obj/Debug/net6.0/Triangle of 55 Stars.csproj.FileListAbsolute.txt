@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\obj\Debug\net6.0\Triangle of 55 Stars.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\obj\Debug\net6.0\Triangle of 55 Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\obj\Debug\net6.0\Triangle of 55 Stars.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\obj\Debug\net6.0\Triangle of 55 Stars.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\obj\Debug\net6.0\Triangle of 55 Stars.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\bin\Debug\net6.0\Triangle of 55 Stars.exe
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\bin\Debug\net6.0\Triangle of 55 Stars.deps.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\bin\Debug\net6.0\Triangle of 55 Stars.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\bin\Debug\net6.0\Triangle of 55 Stars.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\bin\Debug\net6.0\Triangle of 55 Stars.pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\obj\Debug\net6.0\Triangle of 55 Stars.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\obj\Debug\net6.0\refint\Triangle of 55 Stars.dll
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\obj\Debug\net6.0\Triangle of 55 Stars.pdb
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\obj\Debug\net6.0\Triangle of 55 Stars.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\First Steps in Programming\Problems\Triangle of 55 Stars\Triangle of 55 Stars\obj\Debug\net6.0\ref\Triangle of 55 Stars.dll

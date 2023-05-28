@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\bin\Debug\net6.0\Inches_To_Centemters.exe
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\bin\Debug\net6.0\Inches_To_Centemters.deps.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\bin\Debug\net6.0\Inches_To_Centemters.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\bin\Debug\net6.0\Inches_To_Centemters.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\bin\Debug\net6.0\Inches_To_Centemters.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\obj\Debug\net6.0\Inches_To_Centemters.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\obj\Debug\net6.0\Inches_To_Centemters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\obj\Debug\net6.0\Inches_To_Centemters.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\obj\Debug\net6.0\Inches_To_Centemters.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\obj\Debug\net6.0\Inches_To_Centemters.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\obj\Debug\net6.0\Inches_To_Centemters.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\obj\Debug\net6.0\refint\Inches_To_Centemters.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\obj\Debug\net6.0\Inches_To_Centemters.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\obj\Debug\net6.0\Inches_To_Centemters.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Inches_To_Centemters\obj\Debug\net6.0\ref\Inches_To_Centemters.dll

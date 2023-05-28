@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\bin\Debug\net6.0\The Larger Number.exe
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\bin\Debug\net6.0\The Larger Number.deps.json
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\bin\Debug\net6.0\The Larger Number.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\bin\Debug\net6.0\The Larger Number.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\bin\Debug\net6.0\The Larger Number.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\obj\Debug\net6.0\The Larger Number.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\obj\Debug\net6.0\The Larger Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\obj\Debug\net6.0\The Larger Number.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\obj\Debug\net6.0\The Larger Number.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\obj\Debug\net6.0\The Larger Number.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\obj\Debug\net6.0\The Larger Number.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\obj\Debug\net6.0\refint\The Larger Number.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\obj\Debug\net6.0\The Larger Number.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\obj\Debug\net6.0\The Larger Number.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Conditions\The Larger Number\obj\Debug\net6.0\ref\The Larger Number.dll

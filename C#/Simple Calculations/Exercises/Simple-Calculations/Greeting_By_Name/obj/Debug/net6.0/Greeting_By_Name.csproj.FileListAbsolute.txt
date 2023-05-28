@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\bin\Debug\net6.0\Greeting_By_Name.exe
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\bin\Debug\net6.0\Greeting_By_Name.deps.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\bin\Debug\net6.0\Greeting_By_Name.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\bin\Debug\net6.0\Greeting_By_Name.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\bin\Debug\net6.0\Greeting_By_Name.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\obj\Debug\net6.0\Greeting_By_Name.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\obj\Debug\net6.0\Greeting_By_Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\obj\Debug\net6.0\Greeting_By_Name.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\obj\Debug\net6.0\Greeting_By_Name.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\obj\Debug\net6.0\Greeting_By_Name.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\obj\Debug\net6.0\Greeting_By_Name.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\obj\Debug\net6.0\refint\Greeting_By_Name.dll
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\obj\Debug\net6.0\Greeting_By_Name.pdb
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\obj\Debug\net6.0\Greeting_By_Name.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\Simple Calculations\Exercises\Simple-Calculations\Greeting_By_Name\obj\Debug\net6.0\ref\Greeting_By_Name.dll

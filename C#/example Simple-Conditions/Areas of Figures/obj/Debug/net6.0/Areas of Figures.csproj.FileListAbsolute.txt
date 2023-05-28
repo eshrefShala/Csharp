@@ -1,0 +1,15 @@
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\obj\Debug\net6.0\Areas of Figures.csproj.AssemblyReference.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\obj\Debug\net6.0\Areas of Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\obj\Debug\net6.0\Areas of Figures.AssemblyInfoInputs.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\obj\Debug\net6.0\Areas of Figures.AssemblyInfo.cs
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\obj\Debug\net6.0\Areas of Figures.csproj.CoreCompileInputs.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\bin\Debug\net6.0\Areas of Figures.exe
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\bin\Debug\net6.0\Areas of Figures.deps.json
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\bin\Debug\net6.0\Areas of Figures.runtimeconfig.json
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\bin\Debug\net6.0\Areas of Figures.dll
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\bin\Debug\net6.0\Areas of Figures.pdb
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\obj\Debug\net6.0\Areas of Figures.dll
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\obj\Debug\net6.0\refint\Areas of Figures.dll
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\obj\Debug\net6.0\Areas of Figures.pdb
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\obj\Debug\net6.0\Areas of Figures.genruntimeconfig.cache
+C:\Users\EshrefShala\Desktop\C#\example Simple-Conditions\Areas of Figures\obj\Debug\net6.0\ref\Areas of Figures.dll
